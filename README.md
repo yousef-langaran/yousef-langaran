@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yousef Langaran</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-- 🌱 I’m currently learning **Machin Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Vue, Nuxt and Blazor**
 
